@@ -1,0 +1,14 @@
+CONTROL DE VUELTAS ESCOLAR
+Precio fijo: $7.000 CLP por vuelta.
+
+INSTALACIÓN EN SAMSUNG GALAXY A56
+1. Publica el contenido de esta carpeta en una web HTTPS gratuita (por ejemplo GitHub Pages o Cloudflare Pages). No basta abrir index.html directamente desde Archivos para instalarla como PWA.
+2. Abre la URL publicada en Chrome en el Samsung A56.
+3. Menú ⋮ > Añadir a pantalla de inicio > Instalar (la etiqueta puede variar).
+4. Abre el icono Vueltas. Después de cargar por primera vez con Internet, la app puede funcionar sin conexión.
+
+Los registros quedan únicamente en el almacenamiento local del navegador del móvil, no se sincronizan con otros teléfonos. Descarga el respaldo JSON regularmente y guárdalo fuera del navegador, por ejemplo en Google Drive o Archivos. El CSV es el informe del mes en pantalla; el JSON respalda TODOS los meses. La restauración JSON REEMPLAZA los datos actuales. Los datos pueden perderse al borrar datos del sitio, cambiar de navegador o restaurar el teléfono.
+
+El botón Compartir total abre el selector de aplicaciones de Android, desde el que puedes escoger WhatsApp. No envía mensajes automáticamente.
+
+Los archivos son estáticos: no hay backend ni servicio que genere pagos periódicos. Para usar la app en un dominio HTTPS necesitarás publicarla una vez en un servicio web. Comprueba sus condiciones vigentes antes de elegir proveedor.
